@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-project_medecine/static/css/main.462d6de6.css",
+    "main.js": "/react-project_medecine/static/js/main.2b3d59c1.js",
+    "static/js/787.a2bf511c.chunk.js": "/react-project_medecine/static/js/787.a2bf511c.chunk.js",
+    "static/media/echographie.jpg": "/react-project_medecine/static/media/echographie.22fff14d3130b0c6d3c9.jpg",
+    "static/media/Mammographie.jpg": "/react-project_medecine/static/media/Mammographie.2e200f6e1df6eaf6f788.jpg",
+    "static/media/radiographie.jpg": "/react-project_medecine/static/media/radiographie.61494d847caa01cfbfbf.jpg",
+    "static/media/scanner.jpg": "/react-project_medecine/static/media/scanner.b9b65c820169097c64cc.jpg",
+    "static/media/IRM.jpg": "/react-project_medecine/static/media/IRM.95b9a10a5b48dbda2fd0.jpg",
+    "static/media/squellete.jpg": "/react-project_medecine/static/media/squellete.d9c5375aa8fd0c5f0f8d.jpg",
+    "static/media/consultation.jpg": "/react-project_medecine/static/media/consultation.43eb1c90733f31143787.jpg",
+    "index.html": "/react-project_medecine/index.html",
+    "main.462d6de6.css.map": "/react-project_medecine/static/css/main.462d6de6.css.map",
+    "main.2b3d59c1.js.map": "/react-project_medecine/static/js/main.2b3d59c1.js.map",
+    "787.a2bf511c.chunk.js.map": "/react-project_medecine/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.462d6de6.css",
+    "static/js/main.2b3d59c1.js"
+  ]
+}
