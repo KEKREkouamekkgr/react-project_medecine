@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-project_medecine/static/css/main.462d6de6.css",
-    "main.js": "/react-project_medecine/static/js/main.2b3d59c1.js",
+    "main.js": "/react-project_medecine/static/js/main.cc99b12a.js",
     "static/js/787.a2bf511c.chunk.js": "/react-project_medecine/static/js/787.a2bf511c.chunk.js",
     "static/media/echographie.jpg": "/react-project_medecine/static/media/echographie.22fff14d3130b0c6d3c9.jpg",
     "static/media/Mammographie.jpg": "/react-project_medecine/static/media/Mammographie.2e200f6e1df6eaf6f788.jpg",
@@ -12,11 +12,11 @@
     "static/media/consultation.jpg": "/react-project_medecine/static/media/consultation.43eb1c90733f31143787.jpg",
     "index.html": "/react-project_medecine/index.html",
     "main.462d6de6.css.map": "/react-project_medecine/static/css/main.462d6de6.css.map",
-    "main.2b3d59c1.js.map": "/react-project_medecine/static/js/main.2b3d59c1.js.map",
+    "main.cc99b12a.js.map": "/react-project_medecine/static/js/main.cc99b12a.js.map",
     "787.a2bf511c.chunk.js.map": "/react-project_medecine/static/js/787.a2bf511c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.462d6de6.css",
-    "static/js/main.2b3d59c1.js"
+    "static/js/main.cc99b12a.js"
   ]
 }
