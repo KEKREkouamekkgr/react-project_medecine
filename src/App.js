@@ -10,7 +10,7 @@ function App() {
    
     <div className="App">
      <Routes>
-              <Route path="/" element={<Accueil />} />
+              <Route path="/react-project_medecine" element={<Accueil />} />
               <Route path="/contenu" element={<Contenu />} />
               <Route path="/suivant" element={<Suivant />} />
      </Routes>

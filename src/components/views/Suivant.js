@@ -12,7 +12,7 @@ export default class Suivant extends Component {
               </div>
               <div class="card-body">
                 <h5 class="card-title">Encore un peu de patience ...</h5>
-                <Link to="/" class="btn btn-dark">Retour</Link>
+                <Link to="/react-project_medecine" class="btn btn-dark">Retour</Link>
               </div>
         </div>
       </div>
